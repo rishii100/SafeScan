@@ -1,6 +1,5 @@
 # SafeScan - AI-Powered Healthcare Access
 
-## Overview
 SafeScan is an AI-driven application designed to empower individuals with timely access to healthcare. The platform provides self-service health assessments, AI-based medical analysis, and seamless doctor appointment booking, reducing delays and improving diagnostics.
 
 ## Problem Statement
