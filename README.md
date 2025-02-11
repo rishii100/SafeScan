@@ -1,13 +1,13 @@
 # SafeScan - AI-Powered Healthcare Access
 
 ## Overview
-Health Oracle is an AI-driven application designed to empower individuals with timely access to healthcare. The platform provides self-service health assessments, AI-based medical analysis, and seamless doctor appointment booking, reducing delays and improving diagnostics.
+SafeScan is an AI-driven application designed to empower individuals with timely access to healthcare. The platform provides self-service health assessments, AI-based medical analysis, and seamless doctor appointment booking, reducing delays and improving diagnostics.
 
 ## Problem Statement
 Millions lack timely, affordable healthcare access, leading to delayed diagnoses and poor health outcomes. The current system is specialist-dependent, causing bottlenecks and information asymmetry, preventing preventive care and informed decision-making.
 
 ## Solution
-Health Oracle offers:
+It offers:
 - **AI-Powered Medical Analysis:** Users upload CT/MRI scans to receive AI-driven insights.
 - **Self-Service Health Assessments:** AI models predict potential abnormalities and suggest treatments.
 - **AI Medical Assistant:** Provides instant clarification and healthcare guidance.
