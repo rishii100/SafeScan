@@ -53,8 +53,6 @@ It offers:
 4. Submit a pull request.
 
 ## License
-MIT License
+[MIT License](LICENSE)
 
----
-Health Oracle - Revolutionizing Access & Diagnosis for All
 
