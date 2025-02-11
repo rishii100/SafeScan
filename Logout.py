@@ -15,7 +15,7 @@ DEFAULT_PAGE = "Logout.py"
 SECOND_PAGE_NAME = "Welcome"
 
 st.set_page_config( 
-     page_title="HealthOracle", 
+     page_title="iDoc", 
      page_icon="🏫", 
  ) 
 st.snow()
@@ -110,15 +110,15 @@ def main():
     st.write(f"<div style='text-align: center;'>{styled_text}</div>", unsafe_allow_html=True)
     
     st.markdown(""" 
-        #### Welcome to HealthOracle - Decode Your Health
+        ####  Decode Your Health with iDoc
 
-        1. **Kidney Lens**: Kidney stone, cyst, or tumor? Don't face it alone. Kidney Lens: Your roadmap to treatment and relief.
+        1. **Kidney Lens**
 
-        2. **Brain Lens**: Symptoms to solutions. Brain Lens: Empower your journey, understand your brain's whispers.
+        2. **Brain Lens**
    
-        3. **Lung Lens**: From scan to plan, empowered by knowledge. Lung Lens: Understand your cancer, personalize your journey.
+        3. **Lung Lens**
    
-        4. **Tuberculosis Teller**: CT scan in, clarity and control out. TB Teller: Take charge of your lung health.
+        4. **Tuberculosis predictor**
                 """)
 
     st.markdown(
